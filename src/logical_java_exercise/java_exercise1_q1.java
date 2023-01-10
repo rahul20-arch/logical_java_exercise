@@ -1,6 +1,6 @@
 package logical_java_exercise;
 
-public class java_exercise1 {
+public class java_exercise1_q1 {
 
 
 	

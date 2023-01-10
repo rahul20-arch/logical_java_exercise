@@ -1,6 +1,6 @@
 package logical_java_exercise;
 
-public class Java_exercise_2 {
+public class Java_exercise1_q2 {
 
 	public static void main(String[] args) {
 

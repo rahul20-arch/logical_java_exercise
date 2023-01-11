@@ -1,8 +1,13 @@
+//4.Write a logic to input characters one by one into a single dimensional array and thereafter reversely
+//print the contents in the array.
+
+
+
 package logical_java_exercise;
 
 import java.util.Scanner;
 
-public class Java_exercise_q4 {
+public class Java_exercise1_q4 {
 
 	public static void main(String[] args) {
 		

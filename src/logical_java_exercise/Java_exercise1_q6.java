@@ -2,7 +2,7 @@ package logical_java_exercise;
 
 import java.util.Arrays;
 
-public class Java_exercise_q6 {
+public class Java_exercise1_q6 {
 
 	public static void main(String[] args) {
 	 int A[]= {56,5,100,96,30,2};

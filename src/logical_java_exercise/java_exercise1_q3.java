@@ -1,3 +1,6 @@
+//3.Given an Integer array “A”, Write a program to sum the elements of A
+
+
 package logical_java_exercise;
 
 public class java_exercise1_q3 {

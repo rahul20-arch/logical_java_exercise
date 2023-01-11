@@ -2,7 +2,7 @@ package logical_java_exercise;
 
 import java.util.Arrays;
 
-public class Java_exercise_q5 {
+public class Java_exercise1_q5 {
 
 	public static void main(String[] args) {
 		

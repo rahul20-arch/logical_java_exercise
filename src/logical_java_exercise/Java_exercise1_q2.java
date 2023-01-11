@@ -1,3 +1,8 @@
+//2.Check whether a String is Palindrome. i.e. when the word is reversed, it gives the same word. E.g.
+//“Madam” is a Palindrome
+
+
+
 package logical_java_exercise;
 
 public class Java_exercise1_q2 {

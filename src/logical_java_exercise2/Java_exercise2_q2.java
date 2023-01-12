@@ -1,3 +1,7 @@
+//2.  Assume that you are given a word, write a logic to count the number of vowels and consonants in the
+//given word
+//
+
 package logical_java_exercise2;
 
 import java.util.Arrays;

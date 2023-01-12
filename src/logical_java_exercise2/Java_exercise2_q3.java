@@ -1,3 +1,5 @@
+//3. Insert integer numbers into an array, then copy the array elements into another array
+
 package logical_java_exercise2;
 
 import java.util.Arrays;

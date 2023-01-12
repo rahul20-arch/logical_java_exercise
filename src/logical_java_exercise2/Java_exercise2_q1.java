@@ -1,3 +1,5 @@
+//1. Write a logic to list down unique values and times of occurrence in a given array.
+
 package logical_java_exercise2;
 
 import java.util.Arrays;
